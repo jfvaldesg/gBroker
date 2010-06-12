@@ -1,7 +1,7 @@
 package org.gbroker.client.broker.impl;
 
-public class ActionInfo {
+public enum ActionType {
+	
+	LOCAL, REMOTE
 
-	
-	
 }
